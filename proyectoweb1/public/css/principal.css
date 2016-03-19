@@ -48,6 +48,10 @@ div.div_btn_cancel_register
 	padding: 0px;
 	box-shadow: 0px 0px 0px 14px #999;
 }
+.errorfields
+{
+	color: red;
+}
 .borde
 {
 	width: 40%;
